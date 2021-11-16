@@ -1,8 +1,8 @@
-# NASA Cloud Hackathon Project - Contex Data
+# NASA Cloud Hackathon Project - Context Data
 
 
-### Projet pitch:
-Extract and visualize multiple data sets that can be used to give context to field campaigns or other regional events (e.g., the "Warm Blob" or the recent atmospheric river event on the West Coast).  For example, choose a target region and time period, cycle through all available high-resolution sea surface temperature data, identify clear images, catalog them.  Extract wind, wave, sea surface height, salinity data.  (I am part of a team that just completed a campaign offshore of California: [S-MODE](https://espo.nasa.gov/s-mode)). 
+### Project pitch:
+Extract and visualize multiple data sets that can be used to give context to field campaigns or other regional events (e.g., the "Warm Blob" or the recent atmospheric river event on the West Coast).  For example, choose a target region and time period, cycle through all available high-resolution sea surface temperature data, identify clear images, catalog them.  Extract wind, wave, sea surface height, salinity data.  (For example, there was a campaign just completed offshore of California: [S-MODE](https://espo.nasa.gov/s-mode)). 
 
 #### Tasks:
 - [ ] Identify a region and time period
